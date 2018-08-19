@@ -6,7 +6,9 @@ This is the demo version of the "Trajectory Learning using Generalized Cylinders
 
 TLGC is a novel geometric approach for learning and reproducing trajectory-based skills from human demonstrations. TLGC models a skill as a Generalized Cylinder, a geometric representation composed of an arbitrary space curve called spine and a smoothly varying cross-section. While this model has been utilized to solve other robotics problems, this is the first application of Generalized Cylinders to manipulation. The strengths of TLGC are the model’s ability to identify and extract the implicit characteristics of the demonstrated skill, support for multiple reproduction of trajectories that maintain those characteristics, generalization to new situations through nonrigid registration, and interactive human refinement of the resulting model through kinesthetic teaching. We validated TLGC through several real-world experiments with several robotic platforms.
 
-![Jaco performing a skill](https://github.com/gt-rail-internal/GeneralizedCylinder/blob/master/jaco6.jpg?raw=true "Jaco2")
+![Jaco performing a skill](http://www.ahmadzadeh.info/_/rsrc/1481221808081/research/jaco6.jpg?height=345&width=400)
+
+<!-- https://github.com/gt-rail-internal/GeneralizedCylinder/blob/master/jaco6.jpg?raw=true "Jaco2" -->
 
 
 ## Summary ##
@@ -15,7 +17,7 @@ This package uses Differential Geometry to encode the given set of demonstration
 
 ## Results ##
 
-Check the [Wiki](https://github.com/gt-rail-internal/GeneralizedCylinder/wiki) for more illustrations, results, descriptions, etc.
+Check the [Wiki](https://github.com/rezaahmadzadeh/TLGC/wiki) for more illustrations, results, descriptions, etc.
 
 
 ## Info ##
