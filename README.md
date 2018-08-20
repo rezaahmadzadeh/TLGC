@@ -25,14 +25,14 @@ Check the [Wiki](https://github.com/rezaahmadzadeh/TLGC/wiki) for more illustrat
 ## Info ##
 
 ### Current Contributors: ###
-*  Reza Ahmadzadeh - Georgia Tech - [Feb. 2016] - (reza.ahmadzadeh@gatech.edu) 
+*  Reza Ahmadzadeh (Owner)- Georgia Tech - [Feb. 2016] - (reza.ahmadzadeh@gatech.edu) 
 
 ### Previous Contributors: ###
 *  Roshni Kaushik - Rice University - [Jun. 2016 - Aug. 2016] - MATLAB
 *  Assia Benbihi - Georgia Tech - [Sep. 2016 - Dec. 2016] - MATLAB, C++
 *  Hanbeen Kim - Georgia Tech - [Feb. 2017 - May 2017] - Python
-*  Muhammad Asif Rana - Georgia Tech - [Since Jan. 2017] - MATLAB, ROS
-*  Josh Ting - Georgia Tech - [May. - Dec. 2017] - Python, ROS
+*  Muhammad Asif Rana - Georgia Tech - [Jan. 2017 - Jan. 2018] - MATLAB, ROS
+*  Josh Ting - Georgia Tech - [May. 2017 - Dec. 2017] - Python, ROS
 
 
 ### Version ###
