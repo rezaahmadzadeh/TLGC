@@ -1,4 +1,5 @@
 # TLGC: Trajectory Learning using Generalized Cylinders #
+### version 2.0 ###
 
 This is the demo version of the "Trajectory Learning using Generalized Cylinders" (TLGC) approach. 
 
@@ -36,6 +37,10 @@ Check the [Wiki](https://github.com/rezaahmadzadeh/TLGC/wiki) for more illustrat
 
 ### Version ###
 *  2.0
+
+### What is new? ###
+This version of the TLGC algorithm is available as opensource under GNU GPL v3.0.
+Several bugs have been fixed and multiple scripts have been improved.
 
 ### How do I get set up? ###
 
