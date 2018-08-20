@@ -4,7 +4,7 @@ This is the demo version of the "Trajectory Learning using Generalized Cylinders
 
 ## What is TLGC? ##
 
-TLGC is a novel geometric approach for learning and reproducing trajectory-based skills from human demonstrations. TLGC models a skill as a Generalized Cylinder, a geometric representation composed of an arbitrary space curve called spine and a smoothly varying cross-section. While this model has been utilized to solve other robotics problems, this is the first application of Generalized Cylinders to manipulation. The strengths of TLGC are the model’s ability to identify and extract the implicit characteristics of the demonstrated skill, support for multiple reproduction of trajectories that maintain those characteristics, generalization to new situations through nonrigid registration, and interactive human refinement of the resulting model through kinesthetic teaching. We validated TLGC through several real-world experiments with several robotic platforms.
+TLGC is a novel geometric approach for learning and reproducing trajectory-based skills from human demonstrations. TLGC models a skill as a Generalized Cylinder, a geometric representation composed of an arbitrary space curve called spine and a smoothly varying cross-section. While this model has been utilized to solve other robotics problems, this is the first application of Generalized Cylinders to manipulation. The strengths of TLGC are the model’s ability to identify and extract the implicit characteristics of the demonstrated skill, support for multiple reproduction of trajectories that maintain those characteristics, generalization to new situations through nonrigid registration, and interactive human refinement of the resulting model through kinesthetic teaching. We validated TLGC through several real-world experiments with several robotic platforms. For more information, see the reference section.
 
 ![Jaco performing a skill](http://www.ahmadzadeh.info/_/rsrc/1481221808081/research/jaco6.jpg?height=345&width=400)
 
@@ -13,7 +13,8 @@ TLGC is a novel geometric approach for learning and reproducing trajectory-based
 
 ## Summary ##
 
-This package uses Differential Geometry to encode the given set of demonstrations to learn a model for the demonstrated skill. The model is constructed as a Generalized Cylinder (GC). The algorithm can also reproduce new trajectories from any initial pose inside the Generalized Cylinder. The reproduced trajectories preserve the main features of the demonstrated skill.
+This package uses Differential Geometry to encode the given set of demonstrations to learn a model for the demonstrated skill. The model is constructed as a Generalized Cylinder (GC). The algorithm can also reproduce new trajectories from any initial pose inside the Generalized Cylinder. The reproduced trajectories preserve the main features of the demonstrated skill. For more detail, see the reference section.
+
 
 ## Results ##
 
@@ -41,11 +42,11 @@ Check the [Wiki](https://github.com/rezaahmadzadeh/TLGC/wiki) for more illustrat
 #### MATLAB ####
 * The algorithm is coded in MATLAB
 * No extra Toolbox is required
-* clone the repository, 
+* clone the repository, `git clone https://github.com/rezaahmadzadeh/TLGC.git`
 * In Matlab, set the `Matlab` folder as the current path and run the `main.m` file.
 * There are several datasets included that can be set on the main script.
-* To change the dataset, set the dataset number in `numSet` variable.
-* To reproduce new trajectories after the learning process, set `reproduceIt` flag to `true`
+* To change the dataset, change the filename when loading the `.mat` file (line 23).
+* To reproduce new trajectories after the learning process, set `reproduceIt` flag to `true`.
 
 #### PYTHON ####
 * Not available for this demo version (Being developed and debugged)
