@@ -54,18 +54,18 @@ Several bugs have been fixed and multiple scripts have been improved.
 * To reproduce new trajectories after the learning process, set `reproduceIt` flag to `true`.
 
 #### PYTHON ####
-* Not available for this demo version (Being developed and debugged)
+* Not available for this demo version (Contact authors for more information.)
 
 #### ROS ####
-* Not available for this demo version (Being developed and debugged)
+* Not available for this demo version (Contact authors for more information.)
 
 ### Contribution guidelines ###
 
 I would appreciate your contribution to this repo in following ways:
 
 * Implementing in different programming languages - Python, C++
-* Implementing in ROS
-* Adding a new dataset - including artificial data or demonstrations captured from a real-robot
+* Implementing in ROS (different versions)
+* Adding a new dataset - including synthetic data or demonstrations captured from a real-robot
 * Testing and Debugging the code
 * Improving the code - by proposing new/more efficient solutions to the existing problems
 * Extending the approach - by proposing, implementing, and testing novel ideas 
@@ -108,32 +108,5 @@ If you use this code (even in part) please cite the following papers:
 		}
 
 
-* Our IJCAI-2016 workshop paper:
-
-
-		@INPROCEEDINGS{ahmadzadeh2016encoding,
-		TITLE={Encoding Demonstrations and Learning New Trajectories using Canal Surfaces},
-		AUTHOR={Ahmadzadeh, Seyed Reza and Chernova, Sonia},
-		BOOKTITLE={25th Inernational joint Conference on Artificial Intelligence ({IJCAI} 2016), orkshop on Interactive Machine Learning: Connecting Humans and Machines},
-		PAGES={1--7},
-		YEAR={2016},
-		MONTH={July},
-		ADDRESS={New York City, NY, USA},
-		ORGANIZATION={{IEEE}}
-		}
-
-* Our RSS-2016 workshop paper:
-
-
-		@INPROCEEDINGS{ahmadzadeh2016geometric,
-		TITLE={A Geometric Approach for Encoding Demonstrations and Learning New Trajectories},
-		AUTHOR={Ahmadzadeh, Seyed Reza and Chernova, Sonia},
-		BOOKTITLE={Robotics: Science and Systems  ({RSS} 2016), Workshop on Planning for Human-Robot Interaction: Shared Autonomy and Collaborative Robotics},
-		PAGES={1--3},
-		YEAR={2016},
-		MONTH={June},
-		ADDRESS={Ann Arbor, Michigan, USA},
-		ORGANIZATION={{IEEE}}
-		}
 
 
