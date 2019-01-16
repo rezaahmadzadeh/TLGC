@@ -79,6 +79,21 @@ I would appreciate your contribution to this repo in following ways:
 ## References and Citation ##
 If you use this code (even in part) please cite the following papers:
 
+* Our Frontiers 2018 article:
+
+
+		@ARTICLE{ahmadzadeh2018trajectory,
+		TITLE={Trajectory-based Skill Learning using Generalized Cylinders},
+		AUTHOR={Ahmadzadeh, S. Reza and Chernova, Sonia},
+		JOURNAL={Frontiers in Robotics and AI},
+		VOLUME={5},
+		PAGES={132},
+		YEAR={2018},
+		PUBLISHER={Frontiers}
+		}		
+        
+        
+
 * Our RSS 2017 paper:
 
 
@@ -99,7 +114,7 @@ If you use this code (even in part) please cite the following papers:
 
 		@INPROCEEDINGS{ahmadzadeh2016trajectory,
 		TITLE={Trajectory Learning from Demonstration with Canal Surfaces: A Parameter-free Approach},
-		AUTHOR={Ahmadzadeh, Seyed Reza and Kaushik, Roshni and Chernova, Sonia},
+		AUTHOR={Ahmadzadeh, S. Reza and Kaushik, Roshni and Chernova, Sonia},
 		BOOKTITLE={Humanoid Robots ({H}umanoids), 2016 {IEEE-RAS} International Conference on},
 		YEAR={2016},
 		MONTH={November},
