@@ -72,7 +72,7 @@ I would appreciate your contribution to this repo in following ways:
 
 ### Who do I talk to? ###
 
-* Owner: Reza Ahmadzadeh (reza.ahmadzadeh@gatech.edu)
+* Owner: Reza Ahmadzadeh (reza_ahmadzadeh@uml.edu)
 
 
 
